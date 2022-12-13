@@ -30,8 +30,6 @@
     background: black;
   }
 
-  
-
   .carousel-item>img {
     position: absolute;
     top: 0;
@@ -43,7 +41,7 @@
   
 
   .featurette-divider {
-    margin: 2rem 0;
+    margin: 1rem 0;
   }
 
   .featurette-heading {
